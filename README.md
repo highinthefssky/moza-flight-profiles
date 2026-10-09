@@ -12,6 +12,7 @@ version, and a short description to help you choose the right profile.
 |---|---|---|---|
 | [ab6-a320-msfs2024.preset](profiles/ab6-a320-msfs2024.preset) | AB6 | 2024 | Airbus A320 profile preset for the Moza cockpit. |
 | [ab6-cessna-172-msfs2024.preset](profiles/ab6-cessna-172-msfs2024.preset) | AB6 | 2024 | Cessna 172 profile preset for the Moza cockpit. |
+| [ab6-P51-Mustang.preset](profiles/ab6-P51-Mustang.preset) | AB6 | 2024 | P-51D Mustang profile preset for the Moza cockpit. |
 | [ab6-piston-msfs2024.preset](profiles/ab6-piston-msfs2024.preset) | AB6 | 2024 | Generic piston aircraft profile preset for the Moza cockpit. |
 
 ## 🎮 How to Use These Files
